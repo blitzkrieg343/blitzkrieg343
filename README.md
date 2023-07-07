@@ -1,5 +1,5 @@
-### Hi👋, I'm Christian Lastimosa
-
+# Hi👋, I'm Christian Lastimosa
+## Passionate and Striving React Developer from the Philippines 🇵🇭
 - 🔭 I’m currently working on React JS with PostgreSQL and Flutter
 - 🌱 I’m currently learning React JS, React Native
 - 👯 I’m looking to collaborate on Web and Mobile Development
